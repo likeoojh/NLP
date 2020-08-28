@@ -1,2 +1,2 @@
-# NLP
-자연어처리와 관련해 공부한 내용을 업로드합니다.
+# NLP 
+Upload basic flow of natural language processing.
